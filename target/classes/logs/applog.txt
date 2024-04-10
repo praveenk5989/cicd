@@ -1,0 +1,3 @@
+INFO    2024-04-10 09:04:53,464 [main] devpinoyLogger  - property fie is loaded
+INFO    2024-04-10 09:04:58,203 [main] devpinoyLogger  - Browser is launched
+INFO    2024-04-10 09:05:46,709 [main] devpinoyLogger  - browser is closed
